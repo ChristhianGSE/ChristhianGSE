@@ -2,7 +2,7 @@
 
 
 
-- Atualmente não trabalho 
+- Desenvolvedor Front-end
 - Estudo desenvolvimento full stack
 
 <div align="center">
