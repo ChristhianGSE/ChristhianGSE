@@ -17,8 +17,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img align="center" alt="bs" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/PHP-777BB4?style=flatlogo=php&logoColor=white" />
-  <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?flat&logo=vue.js&logoColor=4FC08D" />
+  
 </div>
   
   ##
