@@ -6,7 +6,7 @@
 - Estudo desenvolvimento full stack
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=christhiangse&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=christhianGSE&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christhianGSE&layout=compact&langs_count=7&theme=algolia" style="max-width: 100%;"/>
 </div>
 
